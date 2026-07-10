@@ -23,3 +23,10 @@ Features:
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name: Christian James O. Zotomayor
+
+Feature Added:
+- Digital Library Dashboard
